@@ -7,7 +7,7 @@
 - 👨‍💻 Actualmente estoy estudiando Licenciatura en Sistemas en la Universidad San Juan Bosco Trelew.
 - 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías y herramientas.
 - 💼 Estoy buscando oportunidades para colaborar en proyectos desafiantes y ampliar mis habilidades.
-- 📫 Puedes contactarme a través de mi correo electrónico [francomatamala1@hotmail.com] o encontrarme en [LinkedIn](https://www.linkedin.com/in/franco-abel-matamala-48636016a/).
+- 📫 Puedes contactarme a través de mi correo electrónico francomatamala1@hotmail.com o encontrarme en [LinkedIn](https://www.linkedin.com/in/franco-abel-matamala-48636016a/).
 
 ## Habilidades y Tecnologías
 
