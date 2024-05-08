@@ -12,7 +12,7 @@
 ## Habilidades y Tecnologías
 
 - 💻 Lenguajes de programación: [JAVA, C, C#, Python, HTML, CSS, Javascript].
-- 🛠️ Tecnologías y herramientas: [Git, GitHub, VSCode, sql, Postgresql].
+- 🛠️ Tecnologías y herramientas: [Git, GitHub, VSCode, SQL, PostgreSQL].
 - 📚 Siempre estoy interesado en aprender más sobre: [Lenguajes orientados a objetos, Base de datos y/o gestion y analisis de datos].
 
 ## Estadísticas de GitHub
